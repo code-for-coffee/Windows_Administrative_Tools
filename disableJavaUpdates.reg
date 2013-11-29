@@ -1,0 +1,66 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft]
+"sponsorsoffered"="SP16;SP11;"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Auto Update]
+"AUVersion"="2.1.9.5"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Plug-in]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Plug-in\10.21.2]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"UseJava2IExplorer"=dword:00000001
+"UseNewJavaPlugin"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Runtime Environment]
+"Java7FamilyVersion"="1.7.0_21"
+"CurrentVersion"="1.7"
+"BrowserJavaVersion"="10.21.2"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Runtime Environment\1.7]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"RuntimeLib"="C:\\Program Files (x86)\\Java\\jre7\\bin\\client\\jvm.dll"
+"MicroVersion"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Runtime Environment\1.7.0_21]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"MicroVersion"="0"
+"RuntimeLib"="C:\\Program Files (x86)\\Java\\jre7\\bin\\client\\jvm.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Runtime Environment\1.7.0_21\MSI]
+"JU"="1"
+"OEMUPDATE"=""
+"MODE"="U"
+"JQS"=""
+"FROMVERSION"="1.7.0_17"
+"FROMVERSIONFULL"="1.7.0_17-b02"
+"PRODUCTVERSION"="7.0.210"
+"INSTALLDIR"="C:\\Program Files (x86)\\Java\\jre7\\"
+"PATCHDIR"="C:\\Program Files (x86)\\Java\\jre7"
+"WEB_JAVA_SECURITY_LEVEL"=""
+"WEB_JAVA"=""
+"EULA"="0"
+"IEXPLORER"="1"
+"MOZILLA"="1"
+"JAVAUPDATE"="1"
+"AUTOUPDATECHECK"="1"
+"AUTOUPDATEDELAY"=""
+"ImageCkSum"="4172486760"
+"FullVersion"="1.7.0_21-b11"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Update]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JavaSoft\Java Update\Policy]
+"Method"="jchrome"
+"PostStatusUrl"="https://sjremetrics.java.com/b/ss//6"
+"EnableJavaUpdate"=dword:00000000
+"NotifyDownload"=dword:00000001
+"UpdateSchedule"=dword:00000010
+"Frequency"=dword:01010000
+"UpdateMin"=dword:00000010
+"VisitorId"="2f22e551-8912880f"
+"NotifyInstall"=dword:00000000
+

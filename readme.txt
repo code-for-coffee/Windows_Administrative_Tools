@@ -1,8 +1,12 @@
-classicshellsettings.ps1
 james [at] codeforcoffee [dot] org
-Last updated - 3/18/13
+Last updated - 7/28/13
 
-ABOUT:
+Included in this repo:
+
+DisableClassicShellSettings.ps1
+Disables a user from opening the classic shell settings context menu.
+
+INFO:
 
 This simple powershell script allows a system administrator to enable or disable the "Settings" context Menu from Classic Shell. Please note that Classic Shell (http://www.classicshell.net/) must be installed for this script to run. This script has been tested in Powershell 3.0.
 
@@ -23,4 +27,9 @@ If you are receiving an error such as "classicshellsettings.ps1 cannot be loaded
 
 This is due to the fact that Classic Shell has not been installed correctly (or at all) and the registry defaults do not exist on this computer. To rectify this problem you may run the following line in Powershell to create the correct path: "Md "HKCU:\Software\IvoSoft\ClassicStartMenu\"
 
+------
 
+DisableJavaUpdate.Reg
+
+This is designed to disable annoying Java update prompts.
+It is NOT meant as a replacement for updating Java. 
